@@ -1,1 +1,2 @@
-# wms_westcoast_2018
+#Add this line using vi 
+#wms_westcoast_2018
